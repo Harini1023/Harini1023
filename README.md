@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 ![Harini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harini1023&theme=dark&show_icons=true&hide=contribs,prs)
 
-[![Harini's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini1023&theme=dark)](https://github.com/Harini1023/github-readme-stats)
+<!-- [![Harini's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini1023&theme=dark)](https://github.com/Harini1023/github-readme-stats) -->
 
 
 
